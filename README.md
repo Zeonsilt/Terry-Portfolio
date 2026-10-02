@@ -2,6 +2,9 @@
 
 Landing page portofolio pribadi berbasis **HTML + CSS murni** (tanpa JavaScript).
 
+## Bahasa
+Website tersedia dalam **Bahasa Indonesia** dan **English**. Tombol **ID / EN** di navigasi memakai CSS murni (radio button + selector `:has()`), tanpa JavaScript.
+
 ## Halaman / Section
 1. **Homepage** — hero, status, CTA, ilustrasi rute beranimasi, ticker keahlian
 2. **About** — profil, statistik, skill
@@ -40,4 +43,4 @@ terry-portfolio/
 ## Menjalankan
 Buka `index.html` di browser. Untuk GitHub Pages: Settings → Pages → Deploy from branch `main` / root.
 
-Ganti placeholder `[Hobi 1–4]` dengan data Anda.
+Semua konten sudah terisi.
